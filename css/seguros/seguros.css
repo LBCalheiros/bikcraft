@@ -2,6 +2,10 @@
   background-color: var(--c11);
 }
 
+#seguros .seguros {
+  padding-top: 0px;
+}
+
 .seguros {
   padding-top: 60px;
   padding-bottom: 60px;
